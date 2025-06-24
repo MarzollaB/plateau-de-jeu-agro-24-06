@@ -1,0 +1,27 @@
+[
+  {
+    "traitement": "T1",
+    "stade_BBCH": "31–32 (1er–2e nœud)",
+    "periode": "Mi-avril (selon météo, pression maladies)",
+    "objectif": "Prévenir ou réduire maladie foliaire (septoriose, rouilles) précoce avant tallage avancé",
+    "produit_type": "Triazole + éventuel partenaire (SDHI) selon risque et sensibilité variétale",
+    "source": "CePiCOP Wallonie – recommandations 1er traitement fongicide BBCH 31-32 (édition 2024) :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "traitement": "T2",
+    "stade_BBCH": "39 (dernière feuille étalée)",
+    "periode": "Début mai (1–10 mai)",
+    "objectif": "Protection feuillage complet jusqu’à épiaison, maîtrise maladies foliaires (septoriose, rouilles, oïdium)",
+    "produit_type": "Mélange triazole + SDHI ou autre partenaire selon historique et sensibilité variétale",
+    "source": "Livre Blanc Céréales CRA-W – comparatif programmes 2 traitements (édition 2023) :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "traitement": "T3 (optionnel)",
+    "stade_BBCH": "61–69 (épiaison – gonflement grain)",
+    "periode": "Mi-mai (11–20 mai) selon conditions météo et pression maladies épi",
+    "objectif": "Protection spécifique épi en cas de risque fusariose ou autres maladies tardives",
+    "produit_type": "Produit ciblé épi (SDHI ou strobilurine en mélange selon règlementation et risque)",
+    "source": "CRA-W / Corder – recommandation 3e traitement si conditions à risque épi (édition 2023) :contentReference[oaicite:14]{index=14}",
+    "lien": "https://apps.health.belgium.be/fytoweb/pages/public/index.xhtml;jsessionid=CbT8oik11ZsR5IO4v-X06f3jZQW_ZrtLL-7zuqOS.node5?lang=fr&dswid=8670"
+  }
+]

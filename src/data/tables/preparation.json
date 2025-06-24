@@ -1,0 +1,58 @@
+[
+  {
+    "Précédent cultural": "Prairie temporaire",
+    "Période idéale": "Fin août – miseptembre",
+    "Objectif": "Décompacter, détruire le couvert, affiner le lit",
+    "Méthode": "Labour ou TCS profond",
+    "Matériel": "Charrue + herse rotative ou décompacteur + herse",
+    "Source": "Greenotec – semis direct, striptill (livre-blanc-cereales.be, greenotec.be, orbi.uliege.be)"
+  },
+  {
+    "Précédent cultural": "Colza",
+    "Période idéale": "Début – mioctobre",
+    "Objectif": "Incorporer résidus, éviter compaction",
+    "Méthode": "Travail réduit ou semis direct",
+    "Matériel": "Déchaumeur à disques / striptill / semoir direct",
+    "Source": "Livre Blanc Céréales – TCS"
+  },
+  {
+    "Précédent cultural": "Pois / légumineuses",
+    "Période idéale": "Miseptembre – début octobre",
+    "Objectif": "Briser la croûte, affiner structure",
+    "Méthode": "Travail superficiel ou semis direct",
+    "Matériel": "Vibroculteur, herse étrille, rouleau / semoir direct",
+    "Source": "Livre Blanc Céréales – TCS"
+  },
+  {
+    "Précédent cultural": "Maïs grain",
+    "Période idéale": "Mioctobre – début novembre",
+    "Objectif": "Décompaction, gérer gros volumes de résidus",
+    "Méthode": "Labour + herse ou striptill",
+    "Matériel": "Charrue, déchaumeur lourd + herse",
+    "Source": "CIPF/Fidocl – striptill"
+  },
+  {
+    "Précédent cultural": "Céréales (blé…)",
+    "Période idéale": "Fin septembre – mioctobre",
+    "Objectif": "Enfouir pailles, limiter repousses",
+    "Méthode": "Travail réduit ou labour léger",
+    "Matériel": "Déchaumeur à dents, vibroculteur, semoir combiné",
+    "Source": "Livre Blanc & Gembloux"
+  },
+  {
+    "Précédent cultural": "Betteraves",
+    "Période idéale": "Mioctobre – minovembre",
+    "Objectif": "Affiner lit de semences, combler ornières",
+    "Méthode": "Travail superficiel + labour",
+    "Matériel": "Charrue + herse ou combiné rotatif",
+    "Source": "Livre Blanc Céréales – TCS"
+  },
+  {
+    "Précédent cultural": "Semis direct / conservation",
+    "Période idéale": "selon sol (automne/hiver)",
+    "Objectif": "Préserver structure, vie microbienne, humidité",
+    "Méthode": "Striptill ou semis direct",
+    "Matériel": "Striptiller, semoir SD, ou direct lignes de semis",
+    "Source": "CIPF/Wikipedia/Fidocl"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "culture": "Escourgeon (orge d’hiver)",
+    "periode": "Fin septembre – début octobre",
+    "objectif": "Assurer un démarrage rapide avant l’hiver, favoriser le tallage et limiter le risque de gel",
+    "methode": "Semis direct ou semis après travail ou faux-semis selon conditions, profondeur de semis adaptée (3–4 cm)",
+    "materiel": "Semoir combiné ou semoir direct",
+    "source": "Livre Blanc Céréales – stades repères et recommandations de semis" 
+  },
+  {
+    "culture": "Froment d’hiver",
+    "periode": "Fin septembre – mi-octobre",
+    "objectif": "Installation optimale avant l’hiver, développer système racinaire pour tallage",
+    "methode": "Semis sur sol ressuyé, travail superficiel ou semoir direct selon structure, profondeur adaptée",
+    "materiel": "Semoir à céréales (combiné ou direct)",
+    "source": "Livre Blanc Céréales – stades repères et recommandations de semis"
+  },
+  {
+    "culture": "Épeautre",
+    "periode": "Mi-octobre – début décembre (selon conditions pédoclimatiques)",
+    "objectif": "Installer la culture suffisamment tôt pour résister à l’hiver tout en limitant les risques (excès d’humidité)",
+    "methode": "Semis sur sol bien ressuyé, parfois semis plus tardif si conditions humides, profondeur adaptée",
+    "materiel": "Semoir à céréales adapté à semis tardif",
+    "source": "CePiCOP & Livre Blanc Céréales – observations de stades et pratiques de semis"
+  },
+  {
+    "culture": "Seigle / Triticale",
+    "periode": "Début octobre",
+    "objectif": "Bon développement avant hiver avec tolérance au froid, limiter la pression adventices",
+    "methode": "Semis précoce possible dès conditions de travail correctes, profondeur adaptée",
+    "materiel": "Semoir à céréales",
+    "source": "Livre Blanc Céréales – stades repères"
+  },
+  {
+    "culture": "Froment de printemps",
+    "periode": "Début février – début avril",
+    "objectif": "Exploiter la période fraîche pour cumuler tallage et éviter stress estival ultérieur",
+    "methode": "Semis sur sol ressuyé, parfois semis après faux-semis pour gérer adventices, profondeur 3–4 cm",
+    "materiel": "Semoir printemps",
+    "source": "Livre Blanc Céréales – recommandations semis de printemps"
+  },
+  {
+    "culture": "Orge de printemps",
+    "periode": "Mi-février – mi-mars",
+    "objectif": "Démarrage rapide précoce, éviter montaison trop précoce",
+    "methode": "Semis sur sol ressuyé, éventuellement semis sur socs réduits",
+    "materiel": "Semoir printemps",
+    "source": "CePiCOP observations de réseau (réseau d’observation Wallon)"
+  },
+  {
+    "culture": "Avoine de printemps",
+    "periode": "Mi-février – début avril",
+    "objectif": "Installation avant montée de température, pour limiter pression adventices",
+    "methode": "Semis sur sol bien ressuyé, parfois semi-direct après faux-semis",
+    "materiel": "Semoir adapté",
+    "source": "CePiCOP & Livre Blanc Céréales"
+  }
+]

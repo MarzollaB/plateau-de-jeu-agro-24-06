@@ -1,0 +1,39 @@
+[
+  {
+    "phase": "Pré-levée chimique",
+    "periode": "Après semis et avant émergence (ex. octobre pour céréales d’hiver)",
+    "objectif": "Empêcher l’installation des adventices dès germination",
+    "type": "Chimique",
+    "details": "Herbicides de pré-levée (p. ex. flufenacet + pendiméthaline, clomazone, etc.), appliqués sur couche superficielle, activation par pluie légère",
+    "materiel": "Pulvérisateur agricole",
+    "source": "Livre Blanc Céréales CRA-W, recommandations phytoprotection pré-levée (édition 2023) :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "phase": "Pré-levée mécanique",
+    "periode": "Avant émergence, lit de semences fraîchement préparé",
+    "objectif": "Faire lever adventices puis les détruire avant que la culture n’émerge",
+    "type": "Mécanique",
+    "details": "Faux-semis : travail superficiel (1–2 cm) pour stimuler germination adventices, puis destruction (herse étrille, houe rotative). Utile en AB ou forte pression avant semis direct",
+    "materiel": "Herse étrille, houe rotative, déchaumeur léger",
+    "source": "AGRIDEA / Arvalis – pratiques faux-semis céréales; CePiCOP recommandations désherbage mécanique (édition 2023) :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "phase": "Post-levée chimique",
+    "periode": "Juste après émergence (stades cotylédon–1re feuille) ou plus tard selon adventices dominantes",
+    "objectif": "Cibler adventices établies sans nuire à la culture",
+    "type": "Chimique",
+    "details": "Herbicides sélectifs post-levée selon spectre (graminées vs dicotylédones), dosage et stade crop adaptés",
+    "materiel": "Pulvérisateur agricole",
+    "source": "Livre Blanc Céréales CRA-W, recommandations phytoprotection post-levée (édition 2023) :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "phase": "Post-levée mécanique",
+    "periode": "Stade cotylédon à 2–3 feuilles (après émergence)",
+    "objectif": "Éliminer jeunes adventices entre rangs, protéger la culture",
+    "type": "Mécanique",
+    "details": "Interventions mécaniques (herse étrille, bineuse, outil inter-rang) si parcelle ressuyée et culture tolérante; nécessite réglages précis pour ne pas endommager plantules",
+    "materiel": "Herse étrille, bineuse, outils d’inter-rangs",
+    "source": "AGRIDEA / Arvalis – désherbage mécanique jeunes céréales; CePiCOP recommandations (édition 2023) :contentReference[oaicite:11]{index=11}",
+    "lien": "https://apps.health.belgium.be/fytoweb/pages/public/index.xhtml;jsessionid=CbT8oik11ZsR5IO4v-X06f3jZQW_ZrtLL-7zuqOS.node5?lang=fr&dswid=8670"
+  }
+]

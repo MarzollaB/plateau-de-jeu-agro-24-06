@@ -1,0 +1,23 @@
+[
+  {
+    "apport": "N1",
+    "periode": "Février 1–10",
+    "objectif": "Premier apport pour tallage (BBCH 21–29), favoriser développement initial",
+    "dose": "≈ 1/3 de la fumure azotée totale recommandée",
+    "source": "Livre Blanc Céréales – fumure référence 3 fractions février"
+  },
+  {
+    "apport": "N2",
+    "periode": "Mars 1–10",
+    "objectif": "Deuxième apport pour début montaison (BBCH 30), soutenir croissance",
+    "dose": "≈ 1/3 de la fumure azotée totale recommandée",
+    "source": "Livre Blanc Céréales – fumure référence 3 fractions mars"
+  },
+  {
+    "apport": "N3",
+    "periode": "Fin mars – début avril (mars 21–30 / avril 1–10)",
+    "objectif": "Dernier apport à dernière feuille étalée (BBCH 39), finaliser nutrition avant épi",
+    "dose": "≈ 1/3 de la fumure azotée totale recommandée",
+    "source": "Livre Blanc Céréales – fumure référence 3 fractions fin mars-début avril"
+  }
+]

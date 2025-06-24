@@ -1,0 +1,464 @@
+[
+  {
+    "id": "001",
+    "theme": "preparation",
+    "titre": "Fiche 1 – Portance insuffisante (MPa < 1,5)",
+    "recto": "Le sol présente une portance mesurée < 1,5 MPa sur 0–30 cm, limitant le développement racinaire et la pénétration d’eau.",
+    "diagnostic": "Mesure au pénétromètre (plusieurs points par parcelle) confirmant que la portance cible (≥ 1,8 MPa) n’est pas atteinte.",
+    "source": "CRA-W (2023). Portance des sols et systèmes de travail.",
+    "image": ""
+  },
+  {
+    "id": "002",
+    "theme": "preparation",
+    "titre": "Fiche 2 – Mottes trop grosses (> 5 cm)",
+    "recto": "Après le premier passage d’outil, de larges agrégats de terre supérieurs à 5 cm demeurent en surface, empêchant un bon contact entre graine et sol, créant des poches d’air et nuisant à une levée uniforme.",
+    "diagnostic": "Sur cinq zones représentatives, un tamisage manuel (maille 3 cm) révèle que plus de 20 % des fragments dépassent 5 cm, et visuellement on constate des zones clairsemées à l’émergence.",
+    "htmlContent": "<p><strong>Notes :</strong></p><ul><li>Pour un bon lit de semence, viser que 100 % des mottes soient inférieures à 4 cm, idéalement 90 % entre 1 et 3 cm.</li><li>Sous 5 cm de profondeur (horizon 0–5 cm), les particules doivent être fragmentées (< 2 cm) pour assurer un tassement uniforme.</li></ul>",
+    "source": "Arvalis (2022). Techniques d’émiettement du sol et préparation du lit de semence.",
+    "image": ""
+  },
+  {
+    "id": "003",
+    "theme": "preparation",
+    "titre": "Fiche 3 – pH acide (pH < 6,0)",
+    "recto": "Le pH du sol, mesuré à 5,6 dans l’horizon 0–30 cm, est insuffisant pour la disponibilité en nutriments (N, P, K) et ralentit la germination et la vigueur initiale des plantules.",
+    "diagnostic": "Test in situ avec pH-mètre portable corroboré par une analyse laboratoire (méthode titrimétrique) confirmant pH < 6,0.",
+    "source": "CRA-W (2024). Amendement calcique des sols pour cultures céréalières.",
+    "image": ""
+  },
+  {
+    "id": "004",
+    "theme": "preparation",
+    "titre": "Fiche 4 – Matière organique insuffisante (MO < 2 %)",
+    "recto": "La teneur en matière organique mesurée à 1,6 % rend le sol peu cohésif, réduit sa capacité de rétention d’eau et affaiblit la structure des agrégats.",
+    "diagnostic": "Analyse laboratoire confirmée par observation de sols émiettés ne formant pas d’agrégats stables au roulage.",
+    "source": "CRA-W (2023). Gestion de la matière organique et rotation culturale.",
+    "image": ""
+  },
+  {
+    "id": "005",
+    "theme": "preparation",
+    "titre": "Fiche 5 – Résidus mal gérés du précédent",
+    "recto": "Les chaumes et pailles sont entassés (> 4 t/ha) sans broyage ni incorporation, gênant la préparation mécanique du sol et le positionnement des semences.",
+    "diagnostic": "Estimation en volume et collecte manuelle d’un échantillon (1 m²) confirmant > 4 t/ha de résidus en surface.",
+    "source": "Livre Blanc CRA-W (2024). Gestion des résidus de récolte.",
+    "image": ""
+  },
+  {
+    "id": "006",
+    "theme": "preparation",
+    "titre": "Fiche 6 – Sol compacté non détecté",
+    "recto": "Des zones tassées non visibles en surface provoquent des irrégularités de semis et de levée sans motif apparent à l’œil nu.",
+    "diagnostic": "Pression du pied sur sol humide créant des empreintes > 4 cm, et mesure à 15 cm avec pénétromètre montrant une hausse brusque de la résistance.",
+    "source": "CRA-W (2023). Techniques de décompactage localisé.",
+    "image": ""
+  },
+  {
+    "id": "007",
+    "theme": "semis",
+    "titre": "Fiche 7 – Absence de faux-semis",
+    "recto": "Aucun faux-semis n’a été réalisé, laissant les germinations adventices proliférer au moment du semis principal.",
+    "diagnostic": "Comptage à J–semis sur 1 m² : 100 plantules adventices/m² (vulpin, ray-grass) confirmant un fort retraitement.",
+    "source": "Phytoweb (2023). Guide du faux-semis pour céréales.",
+    "image": ""
+  },
+  {
+    "id": "008",
+    "theme": "semis",
+    "titre": "Fiche 8 – Météo non observée",
+    "recto": "Le planning de préparation et de semis est réalisé sans tenir compte des prévisions pluviométriques et de l’état hygrométrique du sol.",
+    "diagnostic": "Absence de consultation IRM, corrélation entre semis planifiés avant 20 mm de pluie et semoir colmaté.",
+    "source": "IRM Belgique (2024). Prévisions pluviométriques pour travaux agricoles.",
+    "image": ""
+  },
+  {
+    "id": "009",
+    "theme": "semis",
+    "titre": "Fiche 9 – Sol trop humide",
+    "recto": "Le sol adhère aux disques et roues, formant des bourrages et empêchant les graines d’être déposées proprement.",
+    "diagnostic": "Test manuel : poignée de terre à 5 cm formant une boule collante, relevé pluviométrique > 20 mm sur 3 jours.",
+    "source": "Arvalis (2022). Techniques de semis en sol humide.",
+    "image": ""
+  },
+  {
+    "id": "010",
+    "theme": "semis",
+    "titre": "Fiche 10 – Distribution inégale",
+    "recto": "Au contrôle post-semis, des doublettes et des manques réguliers (> 5 doublettes et > 3 manques par mètre).",
+    "diagnostic": "Analyse de la dose : comparaison entre la dose calculée et la quantité réellement épandue sur 10 m² ; observation du semoir en marche.",
+    "source": "Arvalis (2022). Réglages et calibration des semoirs céréales.",
+    "image": ""
+  },
+  {
+    "id": "011",
+    "theme": "semis",
+    "titre": "Fiche 11 – Densité de semis inadaptée",
+    "recto": "La densité mesurée (< 300 pl/m² ou > 400 pl/m²) diffère de la cible optimale (350 pl/m²), entraînant clairsemés ou compétition excessive.",
+    "diagnostic": "",
+    "htmlContent": "<p><strong>Calcul de dose :</strong></p><p>Exemple :<br>Densité cible = 300 pl/m²<br>PMG = 45 g<br>Dose = (300 × 45 × 10) ÷ 1000 = 135 kg/ha</p><ul><li>Ajustement semoir : reparamétrer le débit via indicateur de dose et contrôler sur 10 m².</li><li>Vérification : comptage de contrôle à J+3 pour valider et corriger si nécessaire.</li></ul><p><strong>Note :</strong> Livre Blanc Céréales. (n.d.). Densité de semis. Consulté le 17 mai 2025, https://livre-blanc-cereales.be/thematiques/semis/densite-de-semis/</p>",
+    "source": "Tutoriel CRA-W (2024); CRA-W (2023). Livre blanc Céréales; Arvalis (2024). Recommandations semis froment d’hiver.",
+    "image": ""
+  },
+  {
+    "id": "012",
+    "theme": "semis",
+    "titre": "Fiche 12 – Profondeur de semis inadéquate",
+    "recto": "Le dépôt des graines à plus de 3 cm ou moins de 2 cm perturbe la germination, provoquant levée tardive ou faible ancrage.",
+    "diagnostic": "Mesure immédiate à 2 heures post-semis avec une sonde de profondeur : moyenne des cinq points > 3 cm ou < 2 cm.",
+    "source": "Arvalis (2022). Profondeur de semis optimale pour froment.",
+    "image": ""
+  },
+  {
+    "id": "013",
+    "theme": "semis",
+    "titre": "Fiche 13 – Semoir mal réglé",
+    "recto": "Mauvais calage entraînant distribution irrégulière (sauts de débit, doublettes) malgré la bonne dose.",
+    "diagnostic": "Inspection avant chantier : test de distribution sur planchette, observation de grains sautant ou en continu.",
+    "htmlContent": "<ul><li>Le méthyluracile inhibe la synthèse des parois fongiques lors de la germination, protégeant le semis contre la fonte.</li><li>Surveiller la régularité du tapis pour garantir un lit de semence homogène.</li></ul>",
+    "source": "Manuel Horsch (2023). Entretien et réglages du semoir.",
+    "image": ""
+  },
+  {
+    "id": "014",
+    "theme": "semis",
+    "titre": "Fiche 14 – Semence non certifiée",
+    "recto": "Utilisation de semences dont le taux de germination est < 90 % ou non traitées, risquant des échecs de levée.",
+    "diagnostic": "Vérification du lot de semence : certificat de germination et étiquette graphique du fournisseur.",
+    "source": "FMB (2024). Standards de qualité des semences.",
+    "image": ""
+  },
+  {
+    "id": "015",
+    "theme": "semis",
+    "titre": "Fiche 15 – Pas de vérification post-semis",
+    "recto": "Aucune évaluation formelle du semis dans la semaine qui suit, empêchant la correction rapide des erreurs.",
+    "diagnostic": "Absence de relevé dans le carnet de bord agricole à J+3 – J+5 ; aucun comptage effectué.",
+    "source": "CRA-W (2023). Procédures de suivi post-semis.",
+    "image": ""
+  },
+  {
+    "id": "016",
+    "theme": "semis",
+    "titre": "Fiche 16 – Semis sur sol hétérogène",
+    "recto": "Infiltration et texture variables provoquent levées irrégulières, malgré réglages constants du semoir.",
+    "diagnostic": "Carottages rapides (sonde manuelle) montrent des alternances de sable limoneux et d’argile.",
+    "source": "Arvalis (2023). Variabilité intra-parcellaire et semis à modulation.",
+    "image": ""
+  },
+  {
+    "id": "017",
+    "theme": "desherbage",
+    "titre": "Fiche 17 – Pression adventice élevée à la reprise",
+    "recto": "Beaucoup d’adventices levées au début de la végétation, risque de forte concurrence sur froment.",
+    "diagnostic": "Résidus adventices insuffisamment enfouis ou absence de faux-semis, sol ressuyé tardivement favorisant germination après hiver humide."
+  },
+  {
+    "id": "018",
+    "theme": "herbicide",
+    "titre": "Fiche 18 – Encroutement du sol limitant le désherbage",
+    "recto": "Surface encroutée après pluies : dents de la herse étrille inefficaces, adventices protégées sous croûte.",
+    "diagnostic": "Battance de surface qui empêche l’outil mécanique d’atteindre les plantules adventices, créant un refuge sous croûte fine."
+  },
+  {
+    "id": "019",
+    "theme": "herbicide",
+    "titre": "Fiche 19 – Salissement en culture associée",
+    "recto": "Adventices tenaces levées entre les lignes dans un système froment-pois malgré couvert dense.",
+    "diagnostic": "Préparation ou enfouissement insuffisant avant semis associé et limites mécaniques liées à la sensibilité du pois après redressement."
+  },
+  {
+    "id": "020",
+    "theme": "herbicide",
+    "titre": "Fiche 20 – Levée tardive d’adventices vivaces",
+    "recto": "Apparition tardive de vivaces (chardons, plantains) après semis, concurrençant la culture.",
+    "diagnostic": "Réserve semencière ou organes vivaces non gérés précédemment et conditions favorables à leur régénération."
+  },
+  {
+    "id": "021",
+    "theme": "herbicide",
+    "titre": "Fiche 21 – Réglage et entretien du matériel mécanique",
+    "recto": "Passages de houe ou herse peu efficaces malgré interventions répétées.",
+    "diagnostic": "Réglages inadaptés (profondeur, angle, vitesse) ou dents/ressorts usés, sol mal évalué (humide/caillouteux)."
+  },
+  {
+    "id": "022",
+    "theme": "herbicide",
+    "titre": "Fiche 22 – Pression adventice après interculture courte",
+    "recto": "Semis de froment après interculture brève sans faux-semis, forte levée adventice en début de cycle.",
+    "diagnostic": "Interculture insuffisante pour épuiser la réserve semencière, sol perturbé faiblement."
+  },
+  {
+    "id": "023",
+    "theme": "herbicide",
+    "titre": "Fiche 23 – Adventices en bordure envahissant la parcelle",
+    "recto": "Recolonisation rapide par adventices issues des bordures ou fossés adjacents.",
+    "diagnostic": "Flux de graines ou rhizomes depuis bandes non cultivées, absence de barrières compétitives."
+  },
+  {
+    "id": "024",
+    "theme": "herbicide",
+    "titre": "Fiche 24 – Adventices résistantes malgré interventions",
+    "recto": "Certaines adventices persistent malgré plusieurs passages mécaniques.",
+    "diagnostic": "Espèces robustes et/ou stade avancé au moment de l’intervention, conditions météo favorisant levées successives."
+  },
+  {
+    "id": "025",
+    "theme": "herbicide",
+    "titre": "Fiche 25 – Observation et protocole de décision",
+    "recto": "Incertain quant au moment optimal pour désherbage mécanique ou chimique, absence de protocole de suivi systématique.",
+    "diagnostic": "Pas de relevés hebdomadaires ni consultation régulière des seuils CADCO, crainte d’intervenir trop tôt ou trop tard."
+  },
+  {
+    "id": "026",
+    "theme": "herbicide",
+    "titre": "Fiche 26 – Choix variétal et implantation pour compétition adventice",
+    "recto": "Variété ou date de semis inadaptées, limitant la compétitivité initiale face aux adventices.",
+    "diagnostic": "Variété à vigueur de départ faible ou semis hors fenêtre optimale, laissant niches pour adventices."
+  },
+  {
+    "id": "029",
+    "theme": "fongicide",
+    "titre": "Fiche 29 – Septoriose détectée en feuillage bas avant épiaison",
+    "recto": "Taches ovales brunes sur feuilles inférieures, ponctuations noires (pycnides) visibles à la loupe.",
+    "diagnostic": "Septoria tritici/nodorum activée par résidus mal enfouis, semis précoces, hiver doux et printemps humide favorisant humidité prolongée sur feuilles (≥ 15 jours) jusqu’à l’épiaison."
+  },
+  {
+    "id": "030",
+    "theme": "fongicide",
+    "titre": "Fiche 30 – Oïdium détecté sur feuilles hautes à l’épiaison",
+    "recto": "Feutrage blanc sur limbes, puis gris avec points noirs (cléistothèces) sur feuilles supérieures et possible sur glumes si épiaison contaminée.",
+    "diagnostic": "Conditions sèches et ensoleillées alternant avec humidité relative élevée (> 80%), densité de végétation élevée et apports azotés favorisent développement d’Erysiphe graminis."
+  },
+  {
+    "id": "031",
+    "theme": "fongicide",
+    "titre": "Fiche 31 – Rouille jaune signalée en foyers au tallage-montaison",
+    "recto": "Pustules jaunes alignées entre nervures sur feuilles inférieures, propagation rapide en foyers circulaires.",
+    "diagnostic": "Printemps frais, couvert humide et venteux favorise Puccinia striiformis ; inoculum issu de repousses ou cultures voisines, survie hivernale possible."
+  },
+  {
+    "id": "032",
+    "theme": "fongicide",
+    "titre": "Fiche 32 – Rouille brune identifiée au redressement-épiaison",
+    "recto": "Pustules brunes/oranges sur face supérieure des feuilles, suivi de téleutosores en fin de saison.",
+    "diagnostic": "Puccinia recondita favorisé par humidité sur feuilles (6–8 h), température 5–25 °C ; spores disséminées par vent, inoculum résiduel sur résidus."
+  },
+  {
+    "id": "033",
+    "theme": "fongicide",
+    "titre": "Fiche 33 – Piétin-verse détecté au tallage (1 cm au-dessus plateau de tallage)",
+    "recto": "Taches ocellées brunes sur gaines au tallage, progression possible vers tige, risque d’échaudage et verse.",
+    "diagnostic": "Pseudo-cercosporella herpotrichoides activé par résidus infectés, hiver doux et humide, semis précoces et densité élevée favorisent développement."
+  },
+  {
+    "id": "034",
+    "theme": "fongicide",
+    "titre": "Fiche 34 – Fusariose épi (Fusarium spp.) identifiée à la floraison",
+    "recto": "Symptômes sur épis (blanchiment, échaudage) et risque mycotoxines si conditions humides à floraison.",
+    "diagnostic": "Inoculum présent sur résidus, conditions humides à floraison, variétés sensibles et dose azotée élevée favorisent infection."
+  },
+  {
+    "id": "035",
+    "theme": "fongicide",
+    "titre": "Fiche 35 – Rhizoctone observé au tallage",
+    "recto": "Taches claires étendues sur gaines, coussinets mycéliens sur 1er entre-nœud, mais rendement peu impacté.",
+    "diagnostic": "Rhizoctonia cerealis présent dans résidus, conditions météo favorables mais maladie rarement justifiant traitement en végétation."
+    },
+    {
+    "id": "036",
+    "theme": "fongicide",
+    "titre": "Fiche 36 – Helminthosporiose détectée après floraison",
+    "recto": "Taches jaunes elliptiques parallèles aux nervures sur feuilles supérieures, poussière noire (conidies) en conditions humides.",
+    "diagnostic": "Pyrenophora tritici-repentis favorisée par résidus mal enfouis, blé après blé, forte humidité et températures élevées post-floraison."
+  },
+  {
+    "id": "037",
+    "theme": "fongicide",
+    "titre": "Fiche 37 – Protection préventive en contexte à haut risque multiple",
+    "recto": "Contexte combiné : résidus abondants de plusieurs cultures favorisant inoculum multiple, conditions météo instables avec alternance humidité et températures modérées.",
+    "diagnostic": "Pression multi-maladies (septoriose + rouille + oïdium) possible en cas de succession de résidus et météo propice, nécessitant plan intégré de protection."
+  },
+  {
+    "id": "038",
+    "theme": "fongicide",
+    "titre": "Fiche 38 – Évaluation post-traitement et suivi de l’efficacité",
+    "recto": "Après intervention fongicide, incertitude sur réussite et nécessité d’un second traitement ou ajustement futur.",
+    "diagnostic": "Conditions météo post-application ou stade de la culture peuvent compromettre efficacité ; émergence potentielle de résistances nécessite suivi rigoureux."
+  },
+  {
+    "id": "039",
+    "theme": "insecticide",
+    "titre": "Fiche 39 – Mouche grise (Delia coarctata) : décision de traitement de semences",
+    "recto": "Présence de pontes de mouche grise en fin d’été dans la parcelle précédente (betterave), risque de larves détruisant le plateau de tallage du froment.",
+    "diagnostic": "Risque lié au précédent betterave ou chicorée, densité de pontes mesurée élevée. Hiver doux ou printemps froid retardant développement du froment augmente la vulnérabilité des plantules."
+  },
+  {
+    "id": "040",
+    "theme": "insecticide",
+    "titre": "Fiche 40 – Limaces grises (Deroceras reticulatum) : surveillance et appâts",
+    "recto": "Feuilles effilochées en début de culture, plantules rongées, levée compromise si infestations élevées (> 5 % plantules atteintes).",
+    "diagnostic": "Été pluvieux précédant semis, couvert dense du précédent favorisant survie, parcelle légère ou caillouteuse. Risque confirmé si piégeage après semis > 10 limaces/m²."
+  },
+  {
+    "id": "041",
+    "theme": "insecticide",
+    "titre": "Fiche 41 – Taupin (Agriotes spp.) et oscinie (Oscinella frit) : traitement de semences",
+    "recto": "Tiges sectionnées ou gaine perforée en plantule, jaunissement de la feuille centrale au tallage, levée partielle ou retardée.",
+    "diagnostic": "Précédent prairie ou repousses de céréales, semis tardif ou sol mal préparé favorise nymphose des taupins et pontes d’oscinie. Risque confirmé par historique parcellaire et conditions météo."
+  },
+  {
+    "id": "042",
+    "theme": "insecticide",
+    "titre": "Fiche 42 – Corbeau/freux : protection de semis par répulsifs",
+    "recto": "Plantules arrachées ou semences consommées par corvidés au semis, levée inégale ou échec localisé.",
+    "diagnostic": "Semis isolé, tardif, situé en bordure ; forte présence de corvidés (Corvus frugilegus). Les semences non protégées exposées attirent oiseaux."
+  },
+  {
+    "id": "043",
+    "theme": "insecticide",
+    "titre": "Fiche 43 – Pucerons en fin de montaison : décision d’intervention",
+    "recto": "Pullulation de pucerons en fin de montaison, risque de mauvais remplissage du grain et vecteur potentiel de virus (jaunisse nanisante).",
+    "diagnostic": "Semis précoce, hiver doux, printemps précoce favorisant pucerons. Pression modérée fréquente, mais mortalité naturelle par auxiliaires souvent suffisante."
+  },
+  {
+    "id": "044",
+    "theme": "insecticide",
+    "titre": "Fiche 44 – Cécidomyie orange de l’épi : surveillance et traitement",
+    "recto": "Vols d’adultes au moment de l’épiaison, larves groupées dans fleurs ou contre grain en formation, risque d’avortement d’épillets.",
+    "diagnostic": "Présence confirmée d’adultes volants le soir sur épi, densité élevée juste à épiaison coïdant avec ponte, potentiel de pertes de rendement si nombreuses larves."
+  },
+  {
+    "id": "045",
+    "theme": "insecticide",
+    "titre": "Fiche 45 – Criocères et autres ravageurs d’épi : évaluation de rentabilité",
+    "recto": "Présence de criocères, mineuses ou thrips à l’épiaison, mais leur nuisibilité moyenne ou mal connue rend difficile la décision.",
+    "diagnostic": "Observations sporadiques d’autres ravageurs d’épi sans seuils clairement établis ; incertitude scientifique sur impact réel sur rendement."
+  },
+  {
+    "id": "046",
+    "theme": "engrais",
+    "titre": "Fiche 46 – Profil azoté du sol insuffisant en sortie d’hiver",
+    "recto": "Profil en azote minéral mesuré faible (< 40 kg Nmin/ha à 90 cm) avant reprise végétative, risque de carence rapide du froment.",
+    "diagnostic": "Sol ayant perdu Nmin par lessivage hivernal ou précédent à faible restitution, minéralisation lente de la matière organique ; faible réserve azotée détectée lors d’analyses de sol en février."
+  },
+  {
+    "id": "047",
+    "theme": "engrais",
+    "titre": "Fiche 47 – Excès d’azote disponible provoquant risques sanitaires et environnementaux",
+    "recto": "Profil Nmin élevé en sortie d’hiver (> 80 kg Nmin/ha), risque de lessivage si apport supplémentaire non modulé, et tassement de végétation favorisant maladies.",
+    "diagnostic": "Sol riche en Nmin issu de précédent à forte restitution (culture azotée ou résidus mal enfouis), conditions humides limitant absorption rapide, indication d’une fumure prudente nécessaire."
+  },
+  {
+    "id": "048",
+    "theme": "engrais",
+    "titre": "Fiche 48 – Fractionnement de la fumure azotée selon stades BBCH",
+    "recto": "Plan de fumure non fractionné ou mal réparti : apport unique trop tôt ou trop tard, entraînant inefficacité ou carence tardive.",
+    "diagnostic": "Absence de stratégie de fractions azotées : la plante absorbe peu en début, puis très intensément au redressement et dernière feuille ; un apport unique ne synchronise pas les besoins et cause pertes ou carence."
+  },
+  {
+    "id": "049",
+    "theme": "engrais",
+    "titre": "Fiche 49 – Fertilisation organique et utilisation de matières organiques",
+    "recto": "Absence ou usage inadapté de matière organique comme source d’azote : minéralisation insuffisante ou retardée.",
+    "diagnostic": "Compost ou fumier appliqué sans tenir compte du taux de minéralisation ; variabilité de libération de N et potentiel d’effet retardé peu synchronisé avec besoin du froment."
+  },
+  {
+    "id": "050",
+    "theme": "engrais",
+    "titre": "Fiche 50 – Ajustement selon précédent cultural et résidus",
+    "recto": "Mauvaise prise en compte de l’azote résiduel du précédent, provoquant sur- ou sous-fertilisation.",
+    "diagnostic": "Précédent légumineuse ou protéagineux non déduit de la fumure, ou précédent riche en Nmin mal évalué. Absence d’historique précis ou d’analyse de sol post-récolte."
+  },
+  {
+    "id": "051",
+    "theme": "engrais",
+    "titre": "Fiche 51 – Fertilisation et qualité protéique du grain",
+    "recto": "Objectif qualité meunerie (indice de Zélény, teneur en protéines) non atteint malgré fumure azotée standard.",
+    "diagnostic": "Dose ou timing d’azote inadapté pour atteindre teneur protéique cible ; variabilité climatique ou dilution due à rendement élevé non pris en compte."
+  },
+  {
+    "id": "052",
+    "theme": "engrais",
+    "titre": "Fiche 52 – Fertilisation adaptée en culture associée froment-pois",
+    "recto": "Gestion de l’azote compliquée en association : apport exogène peut réduire fixation du pois ou provoquer déséquilibre.",
+    "diagnostic": "Le pois fixe l’azote atmosphérique et libère pour le froment ; apport minéral mal synchronisé peut inhiber fixation ou causer excès pour le froment."
+  },
+  {
+    "id": "053",
+    "theme": "engrais",
+    "titre": "Fiche 53 – Adaptation de la fumure en conditions climatiques extrêmes",
+    "recto": "Année pluvieuse ou sèche modifiant disponibilité et absorption d’azote, perturbant plan de fumure standard.",
+    "diagnostic": "Pluies abondantes entraînant lessivage ou sécheresse réduisant absorption ; conditions extrêmes nécessitent réévaluation dynamique pour éviter carence ou pertes."
+  },
+  {
+    "id": "054",
+    "theme": "engrais",
+    "titre": "Fiche 54 – Suivi post-fumure et retour d’expérience",
+    "recto": "Incertitude sur l’efficacité des apports azotés, besoin d’un protocole de suivi pour améliorer stratégie future.",
+    "diagnostic": "Absence de suivi régulier (analyse de sol après fumure, observation de la plante, rendement/protéine), empêchant ajustements précis."
+  },
+  {
+    "id": "055",
+    "theme": "recolte",
+    "titre": "Fiche 55 – Timing optimal de la moisson",
+    "recto": "Maturité physiologique atteinte mais risque climatique de détérioration (pluies, verse) imminent.",
+    "diagnostic": "Attendre trop tard expose à des pluies dégradant la qualité et augmentant les pertes ; moissonner trop tôt entraîne un grain humide difficile à stocker. Il convient de suivre la maturité via la teneur en humidité et l’observation du champ."
+  },
+  {
+    "id": "056",
+    "theme": "recolte",
+    "titre": "Fiche 56 – Gestion de l’humidité du grain au moment de la récolte",
+    "recto": "Humidité du grain > 15 % au moment de la récolte, difficile à stocker sans traitement post-récolte.",
+    "diagnostic": "Moissonner un grain trop humide augmente les risques de moisissures et mycotoxines en stockage, ainsi que la consommation énergétique de séchage."
+  },
+  {
+    "id": "057",
+    "theme": "recolte",
+    "titre": "Fiche 57 – Réglages de la moissonneuse-batteuse pour limiter les pertes",
+    "recto": "Pertes élevées à la moissonneuse-batteuse : grain tombé au sol ou mal séparé sur tapis, impact rendement et qualité.",
+    "diagnostic": "Réglages inadaptés (vitesse, hauteur de coupe, battage trop agressif ou insuffisant), conditions d’humidité ou végétation dense peuvent augmenter les pertes."
+  },
+  {
+    "id": "058",
+    "theme": "recolte",
+    "titre": "Fiche 58 – Gestion des pertes et efficience de récolte",
+    "recto": "Observations de pertes au sol ou de grain non récolté, impact direct sur rendement exploitable.",
+    "diagnostic": "Les pertes peuvent provenir de réglages inadaptés, conditions climatiques (humidité, verse) ou matériel mal entretenu."
+  },
+  {
+    "id": "059",
+    "theme": "recolte",
+    "titre": "Fiche 59 – Gestion post-récolte : séchage et stockage",
+    "recto": "Grain récolté stocké en silo ou cellule, nécessité de le conserver en bon état jusqu’à la vente ou utilisation en semences.",
+    "diagnostic": "Sans séchage et ventilation adaptés, le grain peut s’échauffer, moisir ou subir infestations d’insectes."
+  },
+  {
+    "id": "060",
+    "theme": "recolte",
+    "titre": "Fiche 60 – Qualité technologique et triage du grain",
+    "recto": "Objectif qualité pour meunerie ou semences, nécessité de triage et analyses post-récolte.",
+    "diagnostic": "Le grain de qualité inférieure (taux de protéines, indice de chute de Hagberg, présence de grains abîmés ou contaminés) peut pénaliser le contrat ou le pouvoir germinatif des semences."
+  },
+  {
+    "id": "061",
+    "theme": "recolte",
+    "titre": "Fiche 61 – Gestion des résidus après récolte",
+    "recto": "Résidus de paille et chaumes laissés en surface ou enfouis, impact sur semis suivant et risque sanitaire.",
+    "diagnostic": "Laisser les résidus sans gestion peut entraver la préparation du sol et favoriser maladies ou ravageurs."
+  },
+  {
+    "id": "062",
+    "theme": "recolte",
+    "titre": "Fiche 62 – Récolte en conditions humides",
+    "recto": "Moisson contrainte par pluie ou rosée persistante, risque d’humidité élevée du grain et de bourrage du matériel.",
+    "diagnostic": "Conditions humides augmentent la difficulté de coupe, colmatage, grain humide nécessitant séchage prolongé."
+  },
+  {
+    "id": "063",
+    "theme": "recolte",
+    "titre": "Fiche 63 – Récolte après verse (lodging)",
+    "recto": "Champ partiellement couché, difficulté de coupe, risque de grain non récolté ou de forte perte physiologique.",
+    "diagnostic": "La verse augmente les pertes et la difficulté mécanique ; il faut intervenir rapidement et adapter les réglages pour limiter les pertes et la détérioration du grain."
+  }
+]
