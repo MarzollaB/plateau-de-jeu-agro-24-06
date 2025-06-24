@@ -18,7 +18,7 @@ import tableRecolte     from './data/tables/recolte.json';
  * Paramétrage des cultures et des thèmes cycliques (pour les céréales uniquement)
  * --------------------------------------------------------------------------
  */
-const cultureOptions = ['Céréales', 'Maïs', 'Betteraves', 'Légumineuses', 'Protéagineux', 'Oléagineux', 'Prairies'] as const;
+const cultureOptions = ['Céréales', 'Maïs', 'Betteraves', 'Légumineuses', 'Prairies'] as const;
 type Culture = typeof cultureOptions[number];
 
 const themeOrder = [
