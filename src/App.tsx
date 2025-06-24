@@ -84,7 +84,7 @@ function Guide({
     <div style={{ padding: 20, maxWidth: 800, margin: '0 auto' }}>
       <h1>Guide d'utilisation du Plateau de jeu</h1>
       <p>
-        Bienvenue sur le mode découverte de ce plateau de jeu ! Vous êtes les tout premiers
+        Bonjour et bienvenue sur le mode découverte de ce plateau de jeu ! Vous êtes les tout premiers
         à découvrir cet outil créé dans le cadre de mon TFE, intitulé :<br />
         <em>
           « Et si l’étudiant savait déjà ? Des outils pédagogiques pour accompagner les apprenants
