@@ -84,8 +84,8 @@ function Guide({
     <div style={{ padding: 20, maxWidth: 800, margin: '0 auto' }}>
       <h1>Guide d'utilisation du Plateau de jeu</h1>
       <p>
-        Bonjour et bienvenue sur le mode découverte de ce plateau de jeu ! Vous êtes les tout premiers
-        à découvrir cet outil créé dans le cadre de mon TFE, intitulé :<br />
+        Bonjour et bienvenue sur le mode découverte de "AgriCycle"" ! Vous êtes les tout premiers
+        à découvrir ce plateau de jeu créé dans le cadre de mon TFE, intitulé :<br />
         <em>
           « Et si l’étudiant savait déjà ? Des outils pédagogiques pour accompagner les apprenants
           adultes dans la formation en agronomie »
@@ -1459,7 +1459,7 @@ export default function App() {
         fontSize: '1vh',
         color: '#666'
       }}>
-        © 2025 MARZOLLA Benoît. Tous droits réservés.
+        © 2025 AgriCycle. Tous droits réservés.
       </footer>
     </div>
   );
