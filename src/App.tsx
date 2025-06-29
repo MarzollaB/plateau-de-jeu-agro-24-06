@@ -527,7 +527,7 @@ export default function App() {
         if (relX >= 1260 && relX <= 1386 && relY >= 0 && relY <= 173) {
           ok = true;
           msgText = `✓ N1 ; 1/3 apport d’azote en février (févr. 1–10). Tallage; BBCH 21–29.\nSource : Plan de fumure CRA-W 2024`;
-        } else if (relX >= 1386 && relX <= 1506 && relY >= 393 && relY <= 518) {
+        } else if (relX >= 1386 && relX <= 1506 && relY >= 493 && relY <= 618) {
           ok = true;
           msgText = `✓ N2 ; 1/3 apport d’azote fin mars (mars 21–31). Montaison ; BBCH 30.\nSource : Plan de fumure CRA-W 2024`;;
         } else if (relX >= 1255 && relX <= 1380 && relY >= 865 && relY <= 1036) {
