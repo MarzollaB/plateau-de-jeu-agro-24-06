@@ -490,6 +490,10 @@ export default function App() {
         } else if (relX >= 126 && relX <= 252 && relY >= 0 && relY <= 173) {
           ok = true;
           msgText = `✓ Désherbage post-levée bien positionné : début novembre (nov. 1–10).\nSource : Groupe d’experts phytosanitaires 2023`;
+        } else if (relX >= 1380 && relX <= 1506 && relY >= 393 && relY <= 518) {
+          // nouvelle plage pour le désherbage tardif (sortie d’hiver)
+          ok = true;
+          msgText = `✓ Désherbage post-levée tardif bien positionné : sortie d’hiver (mars 21–31).\nSource : Arvalis 2024`;
         } else {
           ok = false;
           msgText = 'Placement incorrect.';
@@ -523,12 +527,12 @@ export default function App() {
         if (relX >= 1260 && relX <= 1386 && relY >= 0 && relY <= 173) {
           ok = true;
           msgText = `✓ N1 ; 1/3 apport d’azote en février (févr. 1–10). Tallage; BBCH 21–29.\nSource : Plan de fumure CRA-W 2024`;
-        } else if (relX >= 1386 && relX <= 1506 && relY >= 299 && relY <= 425) {
+        } else if (relX >= 1386 && relX <= 1506 && relY >= 393 && relY <= 518) {
           ok = true;
-          msgText = `✓ N2 ; 1/3 apport d’azote en mars (mars 01–10). Début montaison, BBCH 30.\nSource : Plan de fumure CRA-W 2024`;
-        } else if (relX >= 1386 && relX <= 1506 && relY >= 551 && relY <= 803) {
+          msgText = `✓ N2 ; 1/3 apport d’azote fin mars (mars 21–31). Montaison ; BBCH 30.\nSource : Plan de fumure CRA-W 2024`;;
+        } else if (relX >= 1255 && relX <= 1380 && relY >= 865 && relY <= 1036) {
           ok = true;
-          msgText = `✓ N3 ; 1/3 apport d’azote en fin mars début avril (mars 21-30 avr. 1–10). DFE, BBCH 39.\nSource : Plan de fumure CRA-W 2024`;
+          msgText = `✓ N3 ; 1/3 apport d’azote en début mai (mai 1–10). BBCH 39.\nSource : Plan de fumure CRA-W 2024`;
         } else {
           ok = false;
           msgText = 'Placement incorrect.';
