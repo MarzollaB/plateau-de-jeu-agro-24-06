@@ -252,7 +252,7 @@ function Plateau({ placed, onDrop }: PlateauProps) {
         position: 'relative',
         width: '100%',
         height: '100%',
-        backgroundImage: `url(/Plateau_de_jeu1.png)`,
+        backgroundImage: `url(/plateau_de_jeu1.png)`,
         backgroundPosition: 'center center',
         backgroundSize: 'contain',
         backgroundRepeat: 'no-repeat',
