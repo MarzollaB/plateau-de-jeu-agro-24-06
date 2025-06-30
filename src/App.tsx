@@ -1043,8 +1043,8 @@ export default function App() {
                           onError={() => console.warn('Erreur chargement image:', url)}
                           style={{
                             width: 'auto',
-                            maxWidth: '80%',
-                            maxHeight: '50vh',
+                            maxWidth: '100%',
+                            maxHeight: '70vh',
                             borderRadius: 4,
                             marginBottom: '1em',
                           }}
